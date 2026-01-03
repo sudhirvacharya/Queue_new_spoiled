@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdbool.h>
 
-#define BUFFER_SIZE 5   // fixed capacity
+#define BUFFER_SIZE 5   // fixed capacity.
 
 typedef struct {
     int buffer[BUFFER_SIZE];
